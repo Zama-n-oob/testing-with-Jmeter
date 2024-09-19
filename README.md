@@ -7,4 +7,6 @@ Reference site used for Performance testing & Load testing : https://www.simplil
 Reference site used for API testing : https://reqres.in
 
 For Script recording, the modules which have been used from Simplilearns website are :
-1. Homepage 2. Resources 3. Digital Marketing
+1. Homepage
+2. Resources
+3. Digital Marketing
