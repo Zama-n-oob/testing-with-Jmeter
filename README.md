@@ -1,4 +1,4 @@
-#testing-with-Jmeter
+# testing-with-Jmeter
 
 This repository contains files created for the hands on experience in Performance testing, Load testing, API testing and Script recording using Jmeter, a certified course provided by Simplilearn SkillUp.
 
